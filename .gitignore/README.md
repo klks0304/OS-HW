@@ -1,2 +1,2 @@
 # OS-HW
-# Files for Operating System homework.
+Files for Operating System homework.
