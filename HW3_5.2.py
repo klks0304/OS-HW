@@ -1,5 +1,7 @@
 #5.2
 #run module
+#In homework 5.2, most of the part are same as 5.1, except the time quantum and process time may be different
+#hence if you find some other people's homework, the Process Time and Time Quantum (m) in the variable setting may be different
 
 import matplotlib.pyplot as plt
 import numpy as np
