@@ -1,5 +1,7 @@
 #5.1
 #run module
+#homework 5.1 needs an output figure same as the one shows in the pdf
+#hence in the variable setting area, the Process Time and Time Quantum (m) are given
 
 import matplotlib.pyplot as plt
 import numpy as np
