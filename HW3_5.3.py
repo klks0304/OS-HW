@@ -1,4 +1,7 @@
 #5.3
+#In homework 5.3, we have to create a graph "same" as the one in the given pdf file
+#There are some problems by creating the exactly same graph, therefore line chart is allowed
+#the blue line in 5.3 is also allowed to show in line chart instead of smooth curve
 
 import matplotlib.pyplot as plt
 
