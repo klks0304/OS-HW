@@ -1,4 +1,8 @@
 #5.4
+#alpha = 0.5 is given
+#tau_1 = 10 is given
+#CPU burst =[6,6,4,6,4,13,13,13] is given
+#teacher will randomly add some number in the CPU burst list
 
 import matplotlib.pyplot as plt
 import numpy as np
